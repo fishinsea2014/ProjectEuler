@@ -1,0 +1,7 @@
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\bin\Debug\EulerProjects.exe.config
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\bin\Debug\EulerProjects.exe
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\bin\Debug\EulerProjects.pdb
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\obj\Debug\EulerProjects.csprojAssemblyReference.cache
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\obj\Debug\EulerProjects.csproj.CoreCompileInputs.cache
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\obj\Debug\EulerProjects.exe
+C:\Users\QSG\Source\Repos\EulerProjects\EulerProjects\obj\Debug\EulerProjects.pdb
