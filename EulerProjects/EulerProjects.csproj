@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoinPartitions.cs" />
     <Compile Include="EvenFibonacciNumbers.cs" />
     <Compile Include="MultiplesOf3And5.cs" />
-    <Compile Include="PrimePairSets.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpecialPythagoreantriplet.cs" />

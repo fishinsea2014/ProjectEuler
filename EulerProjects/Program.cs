@@ -34,9 +34,16 @@ namespace EulerProjects
                               * specialPythagoreantriplet.GetSideLength(1000).Item2
                               * specialPythagoreantriplet.GetSideLength(1000).Item3;
                 Console.WriteLine($"--Solution: The product of abc is {product}");
-            } 
+            }
             #endregion
 
+            #region Q78: Coin Partitions
+            {
+                Console.WriteLine("Question 78: Coin partitions");
+                int solutions = CoinPartitions.GetPartitions();
+                Console.WriteLine($"--Solution: The least value of ways of one million is:  {solutions} ");
+            } 
+            #endregion
 
             Console.ReadKey();
         }
