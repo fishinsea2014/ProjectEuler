@@ -19,8 +19,7 @@ namespace EulerProjects
         /// OO   O O   O
         /// O   O O   O O
         //Find the least value of n for which p(n) is divisible by one million.
-        ///The solution is comming from the formula of artical:Computing the Partitions of n
-        ///https://www.mathpages.com/home/kmath383.htm
+        
         /// </summary>
         static int range = 1000000;
         static int[] coins = new int[range];
